@@ -1,0 +1,14 @@
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.exe
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.deps.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\bin\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\refint\Example001_HelloConsole.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\ref\Example001_HelloConsole.dll
