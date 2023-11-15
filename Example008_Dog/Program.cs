@@ -1,10 +1,10 @@
-﻿int distans = 100;
+﻿double distans = 1000;
 int speedFfirst = 2;
 int speedFsecond = 5;
 int speedDog = 12;
 int friend = 2;
 int count = 0;
-int time = 0;
+double time = 0;
 
 while(distans > 10)
 {
@@ -23,7 +23,6 @@ while(distans > 10)
         friend = 2;
     }
 }
-Console.Write("Дистанция: ");
-Console.WriteLine(distans);
-Console.Write("Собака пробежала раз: ");
-Console.WriteLine(count);
+Console.WriteLine($"Дистанция: {distans}");
+Console.Write($"Собака пробежала раз: {count}");
+
