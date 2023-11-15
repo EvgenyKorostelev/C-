@@ -12,3 +12,4 @@ C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\D
 C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.pdb
 C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.genruntimeconfig.cache
 C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\ref\Example001_HelloConsole.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\C#\Example001_HelloConsole\obj\Debug\net8.0\Example001_HelloConsole.sourcelink.json
