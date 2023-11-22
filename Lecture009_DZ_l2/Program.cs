@@ -21,8 +21,12 @@ else
   }
  
 int count = arrey.Length;
-while(i < count && i >= 0)
+while(i < count && i > 0)
 {
-    Console.Write($"{arrey[i]}, ");
-    i--;
+  Console.Write($"{arrey[i]}, ");
+  i--;
+  if(i == 0)
+ {
+   Console.Write($"{arrey[i]}");
+ }
 }
