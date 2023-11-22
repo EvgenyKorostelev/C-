@@ -7,6 +7,10 @@ if(num >= a && num <= b)
     int c = num / 10;
     int d = num % 10;
 
+// Другой вариант:
+// int maxDigit = c > d ? c : d;
+// Console.WriteLine(maxDigit);
+
     if(c > d)
     {
         Console.WriteLine($"`{c}` наибольшая цифра числа `{num}`");
