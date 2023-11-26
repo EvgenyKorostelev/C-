@@ -37,12 +37,12 @@ string Method04(int count, string text)
 {
     int i = 0;
     string result = String.Empty;
-
-    while(i < count)
-    {
-        result = result + text;
-        i++;
-    }
+                                                                                                         
+    while(i < count)                                 //  for (int i = 0; i < count; i++)
+    {                                                //  {
+        result = result + text;                      //      result = result + text;
+        i++;                                         //  }
+    }                                                //  return result;
     return result;
 }
 // вызов метода string res = Method04(10, "rwweqetwewq ");
