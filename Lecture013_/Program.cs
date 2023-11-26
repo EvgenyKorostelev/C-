@@ -1,4 +1,6 @@
-﻿Console.Write("Введите целое число: ");
+﻿//Напишите программу, которая принимает на вход число N и 
+//выдаёт произведение чисел от 1 до N.
+Console.Write("Введите целое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 void Func(int numTemp)
