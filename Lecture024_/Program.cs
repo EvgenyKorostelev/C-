@@ -74,13 +74,29 @@ Console.WriteLine($"Count of includes in {str1} from {str2} is {chars}");
 // (читается одинакого с начала и с конца).
 // Регистры сиволов и пробелы игнорируются.
 
-bool IsPalindrome(string msg)
-{
-    int len = msg.Length;
-    for (int i = 0; i < len/2; i++)
-    {
-        if (msg[i] != msg[len-i-1])
-            return false;
+string FilterString(string str){
+    string res = str.ToLower();
+    string count = "";
+    foreach(char elem in res){
+        if(elem != ' '){
+            count+=elem;
+        }
     }
-    return true;
+    return count;
 }
+
+string IsPalindrome(string str){
+    for(int i = 0; i<str.Length/2; i++){
+        if(str[i] != str[str.Length-i-1]){
+            return("String is not palindrome");
+        }
+    }
+    return("String is palindrome");
+}
+
+
+string str = "ROT     Ot";
+string res = FilterString(str);
+Console.WriteLine(IsPalindrome(res));
+//int chars = GetCountVovelsInString(str, str1);
+//Console.WriteLine($"Count of includes in {str} from {str1} is {chars}");
